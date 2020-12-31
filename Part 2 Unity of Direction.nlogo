@@ -1,5 +1,5 @@
 ;; Unity of Direction Model
-;; Swapnaneel Nath
+
 ;; December 2020
 
 globals [prediction]
@@ -184,7 +184,7 @@ count objects with [velocity < 0]
 
 @#$#@#$#@
 Unity of Direction Model
-Swapnaneel Nath
+
 December 2020
 
 ## WHAT IS IT?

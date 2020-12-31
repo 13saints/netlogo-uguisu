@@ -1,5 +1,5 @@
 ;; Neighborhood Clearing Model
-;; Swapnaneel Nath
+
 ;; December 2020
 
 breed [ suns sun ]
@@ -181,7 +181,7 @@ count planets
 
 @#$#@#$#@
 Neighborhood Clearing Model
-Swapnaneel Nath
+
 December 2020
 
 ## WHAT IS IT?

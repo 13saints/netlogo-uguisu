@@ -1,5 +1,5 @@
 ;; Circumstellar Disc Model
-;; Swapnaneel Nath
+
 ;; December 2020
 
 breed [ discs disc ]
@@ -173,7 +173,7 @@ Number
 
 @#$#@#$#@
 Circumstellar Disc Model
-Swapnaneel Nath
+
 December 2020
 
 ## WHAT IS IT?
@@ -205,7 +205,6 @@ Enter *max-mass* to set the maximum mass a plane can have. Each plane gets a ran
 Click *setup* to initialize the model.
 
 Click *go* to start the simulation.
-
 @#$#@#$#@
 default
 true
